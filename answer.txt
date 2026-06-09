@@ -1,0 +1,35 @@
+   part-5
+
+What is the slope?
+
+The slope is represented by the coefficient values returned by model.coef_. Each coefficient shows how much the marks change when a feature increases by one unit while keeping other features constant.
+
+What is the intercept?
+
+The intercept is the starting value of the prediction when all feature values are zero.
+
+What do they mean?
+
+The coefficients indicate feature importance and direction of impact. Positive coefficients mean marks increase as the feature increases. The intercept acts as the baseline prediction.
+
+   part-7
+
+The student with the highest value in the Difference column has the highest prediction 
+
+   part-8
+
+
+What is MAE?
+
+Mean Absolute Error measures the average absolute difference between actual and predicted values. Lower MAE indicates better model performance.
+
+What is R² Score?
+
+R² Score measures how well the model explains the variation in the target variable. Values closer to 1 indicate a better fit.
+
+Is the model performing well?
+
+Yes. If MAE is low and R² is close to 1, the model is performing well.
+
+
+
